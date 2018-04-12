@@ -1,7 +1,7 @@
 {
   "check": [
-    { "status": 3, 
-     "person": "Post 3" }
+    { "status": 1, 
+     "person": 1 }
   ],
   "act": [
     { "lock": 1
